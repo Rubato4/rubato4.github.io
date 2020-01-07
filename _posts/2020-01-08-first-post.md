@@ -25,4 +25,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 <Br>
 <Br>
 from
-https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
+<https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html>
